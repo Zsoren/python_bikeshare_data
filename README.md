@@ -15,4 +15,4 @@ The dataset, provided by Motivate (a bike share system operator), contains recor
   Each file contains bike share trip data for the respective city.
   
 - **Python Script**: 
-  - `bikeshare_project.py` - This script can be run locally through the command line to launch the interactive analysis. Make sure the `.csv` files are in the same directory as the script. The program will prompt users to filter the dataset by city, month, or day, and then display the relevant statistics based on the selections.S
+  - `bikeshare_project.py` - This script can be run locally through the command line to launch the interactive analysis. Make sure the `.csv` files are in the same directory as the script. The program will prompt users to filter the dataset by city, month, or day, and then display the relevant statistics based on the selections.
